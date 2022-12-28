@@ -4,4 +4,3 @@ data = pd.read_csv(URL)
 # f = open("25083.txt","r")
 # lines = f.readlines()
 print(data)
-
